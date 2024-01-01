@@ -3,7 +3,7 @@
 Abstract
 The incubation period for the COVID-19 is reported. We can't say the same for the latent period (the period since the person is infected but has not spread the infection yet), which is a vital characteristic of every infectious disease. Knowing the latent period gives an ability to run simulations which are far more accurate. In this study, I try to estimate the latent period for COVID-19 caused by the SARS-CoV-2 virus via computational simulations using the SEIR model with different values controlling the latent period length (e.g. latent period parameter sweep). I try to fit all other parameters to match the observed statistics the best. I do such modelling for 5 different locations worldwide which are currently experiencing different stages of the epidemic.
 
-As a result, Europe locations suggest that the latent period is between 2 and 4 days: Austria's case suggests a value of 48-96 hours, Italy case suggests the value greater than 48 hours. While China cases suggest shorter latent period.
+As a result, Europe locations suggest that the latent period is between 2 and 4 days: Austria's case suggests a value of 48-96 hours, Italy's case suggests the value greater than 48 hours. While China cases suggest shorter latent period.
 
 Introduction
 The data
