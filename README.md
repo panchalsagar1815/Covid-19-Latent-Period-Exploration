@@ -17,7 +17,7 @@ Heilongjiang, China (two more distinct peaks)
 Italy (Peak is approaching)
 South Korea (single peak passed long ago)
 Latent period estimation
-Latent period can be estimated as reciprocal to sigma parameter. Thus latent period = 1.0 / sigma
+The latent period can be estimated as reciprocal to the sigma parameter. Thus latent period = 1.0 / sigma
 
 The parameter fitting procedure
 I let the optimizer to fit the following parameters:
