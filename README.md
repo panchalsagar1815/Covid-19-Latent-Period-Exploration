@@ -23,7 +23,7 @@ The parameter fitting procedure
 I let the optimizer to fit the following parameters:
 
 Infection start date
-number of the exposed people count on the first day of infection
-number of the infected people count on the first day of infection
+number of exposed people count on the first day of infection
+number of infected people count on the first day of infection
 beta (separate value per week) - infection rate
 gamma - recovery rate
